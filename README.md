@@ -1,7 +1,6 @@
 # Redefine Health API
-Using google apps script, I created a script that pulls data from a Flexiquiz account, sorts it, and then formats it.
-
 Refine Health was spending 20-30 hours a month manually sorting data, and I reduced that time to less than a minute.
+Using Google Apps Script, I created a script that pulls over 13,000+ objects from a Flexiquiz account, sorts it, and then formats it for the user.
 
 **Lessons Learned:**
 - Google Apps Script language
